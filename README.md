@@ -1,1 +1,1 @@
-# Odin Curriculum https://www.theodinproject.com/courses/ruby-programming/lessons/building-blocks
+Odin Curriculum https://www.theodinproject.com/courses/ruby-programming/lessons/building-blocks
